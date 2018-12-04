@@ -5,7 +5,7 @@ da Computação, na Unisc - Universidade de Santa Cruz do Sul.
 
 O projeto tem as seguintes funcionalidades:
 <lu>
-<li>O usuário informa um endereço IP base e,</li>
+<li>O usuário informa um endereço IP base, e</li>
 <li> o programa gera quantas subredes forem necessárias</li>
 <li>Subredes podem ser criadas tanto em IPv4 e IPv6</li>
 </lu>
